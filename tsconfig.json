@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "experimentalDecorators": true,
+        "outDir": "dist",
+        "rootDir": "libs/nest-library/src"
+    },
+    "include": ["libs/nest-library/src/*"],
+    "exclude": ["node_modules", "dist", "test", "**/*spec.ts"]
+}

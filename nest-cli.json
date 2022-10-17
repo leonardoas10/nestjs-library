@@ -1,0 +1,16 @@
+{
+    "projects": {
+        "nest-library": {
+            "type": "library",
+            "root": "libs/nest-library",
+            "entryFile": "index",
+            "sourceRoot": "libs/nest-library/src",
+            "compilerOptions": {
+                "tsConfigPath": "tsconfig.lib.json"
+            }
+        }
+    },
+    "compilerOptions": {
+        "webpack": true
+    }
+}
