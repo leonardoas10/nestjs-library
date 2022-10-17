@@ -10,6 +10,7 @@
     "keywords": [],
     "author": "Leonardo Aranguren S",
     "license": "ISC",
+    "homepage": "https://github.com/leonardoas10/nestjs-library",
     "dependencies": {
         "@nestjs/common": "^9.1.4"
     },
